@@ -1,0 +1,5 @@
+- Can employees locate urgent, role-specific information (e.g., student allergies, client receipts, or accurate drink specs) in 3 clicks or less? 
+- Do new hires understand their core daily responsibilities and department overview on their first day without needing to wait for a manager meeting? 
+- Does the ability to add inline comments to documents reduce the time spent waiting for answers from a week to under a day?
+- Do users trust AI answers more when it explicitly breaks down its reasoning, cites internal sources, and completely avoids "fake empathy"?
+- Do employees feel secure inputting sensitive data when presented with a mandatory data-deletion consent form before using the AI tool?
